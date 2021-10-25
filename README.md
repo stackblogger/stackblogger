@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @stackblogger
+- I write articles on my blog- https://stackblogger.com
+- I run a Social Bookmarking and Backlink Submission site- https://bookmymark.com
 - 👀 I’m interested in exploring javascript
 - 🌱 I’m currently learning how to drive traffic to my blog
 - 💞️ I’m looking to collaborate on something big to get sponsors
