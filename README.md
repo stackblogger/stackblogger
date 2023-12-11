@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning how to drive traffic to my blog
 - 💞️ I’m looking to collaborate on something big to get sponsors
 - 📫 Reach me at jimcute8879@gmail.com or skype: jameer.khan19
+- Buy me a Coffee- https://www.buymeacoffee.com/stackblogger
 
 <!---
 stackblogger/stackblogger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
