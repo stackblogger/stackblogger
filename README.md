@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @stackblogger
+- 👋 Hi, I’m Jameer Khan
+- I have 11 years of experience
 - I write articles on my blog- https://stackblogger.com
-- Check my profile at- https://stackblogger.github.io
 - I run a Social Bookmarking and Backlink Submission site- https://bookmymark.com
-- 👀 I’m interested in exploring javascript
-- 🌱 I’m currently learning how to drive traffic to my blog
-- 💞️ I’m looking to collaborate on something big to get sponsors
-- 📫 Reach me at jimcute8879@gmail.com or skype: jameer.khan19
-- Buy me a Coffee- https://www.buymeacoffee.com/stackblogger
+- My profile - https://me.stackblogger.com/
 
 <!---
 stackblogger/stackblogger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
